@@ -1,0 +1,111 @@
+#header{
+    
+    flex:1;
+  background:#FFCD9E;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+#footer{
+    color: white;
+    height:250px;
+    display: flex;
+    justify-content: space-around;
+    
+  background: black;
+}
+
+body{
+    margin:0;
+    padding:0;
+    height:100vh; /* or simply use height:100% with body and html */
+    display:flex;
+    flex-direction:column;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+
+#ul1{
+    
+    
+    display: inline-block;
+    margin-right: 500px;
+}
+
+#ul2{
+   
+    
+    display: inline-block;
+   
+}
+ul
+{
+list-style-type: none;
+}
+#headerdiv1{
+    display: inline-block;
+    font-size: 18px;
+    
+    
+}
+
+img{
+    display: inline-block;
+    height: 500px;
+    width: 500px;
+    
+}
+#txt{
+   
+    width: 344px;
+    height: 64px;
+    top: 411px;
+    left: 136px;
+    border-radius: 8px ;
+    border-width:4px;
+    border-style:solid;
+    border-color:black;
+    padding: 20px;
+    font-size: 15px;
+
+}
+
+#btn{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+     width: 200px;
+        height: 64px;
+        top: 411px;
+        left: 496px;
+        border-radius: 8px;
+
+
+}
+.logo1{
+    height:20px;
+    width: 20px;
+}
+#p2{
+    font-size: 20px;
+    
+    color: white;
+}
+
+#pm2{
+    font-size: 20px;
+    margin-left: 25px;
+    color: white;
+}
+
+#hh3{
+    margin-bottom: 35px;
+    margin-top: 35px;
+}
+
+#tky{
+   
+    font-size: 40px;
+}
